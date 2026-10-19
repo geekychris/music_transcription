@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Music Transcription logo" width="180">
+</p>
+
 # Music Transposer
 
 Offline audio-to-score transcription app. Listens to audio from a file or microphone,
